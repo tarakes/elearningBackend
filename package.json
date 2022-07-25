@@ -1,0 +1,20 @@
+{
+  "name": "elearningbackend",
+  "version": "1.0.0",
+  "description": "E learing node js backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tarakeswar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.2",
+    "firebase-admin": "^10.0.1",
+    "mongoose": "^6.1.7",
+    "socket.io": "^4.4.1"
+  }
+}
